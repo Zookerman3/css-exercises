@@ -1,0 +1,20 @@
+.pinktext
+{
+    background-color: pink;
+    color: black;
+}
+
+.adjustfont {
+    font-size: 24px;
+}
+
+#title {
+    color: blue;
+    font-size: 36px;
+}
+
+#title2 {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
